@@ -20,7 +20,7 @@ function animation() {
 
 function animation() {
    // Redireccionar a otra URL al hacer clic en el corazón
-   window.location.href = 'vidfeo2.html'; // Reemplaza 'ruta_del_video.html' con la URL a la que quieres redirigir
+   window.location.href = 'video.html'; // Reemplaza 'ruta_del_video.html' con la URL a la que quieres redirigir
 
    // Si deseas mantener alguna otra funcionalidad del corazón antes de redireccionar, 
    // puedes agregarla aquí, como agregar o quitar clases, animaciones, etc.
