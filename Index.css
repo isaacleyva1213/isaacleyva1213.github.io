@@ -1,0 +1,27 @@
+#h1{
+    font-family: Arial;
+}
+
+#cajavideo.video{
+    
+   
+    
+    position: relative;
+
+}
+#cajavideo{
+    
+    text-align: center;
+    background-color: pink;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+  
+    
+  
